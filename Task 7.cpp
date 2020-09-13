@@ -1,5 +1,4 @@
 #include <iostream>
-
 int main() {
 	char grade;
 
@@ -28,6 +27,4 @@ int main() {
 	default:
 		std::cout << "That is not a grade!";
 	}
-
-
 }
